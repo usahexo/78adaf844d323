@@ -57,6 +57,11 @@ baidu_tongji:
 # search
 # swiftype_key: ZP2ZSuHgipSZfRyU8uTR
 
-# share widgets
+jalinks:
+- name: 우리카지노
+  link: https://septcasino.com/
+- name: 카지노사이트
+  link: https://choegocasino.com/
+
 bdshare: false
 jiathis: false
